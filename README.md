@@ -27,13 +27,13 @@ Before you start, make sure you have the following installed:
 
 ## How to Use
 
-### Writing your journal
+### Working on your journal
 - In GitHub Desktop, click **"Open in Visual Studio Code"** to open your project.
 - Journal entries are in `journal-pages/week-XX.md` — one file per week.
-- Write using [Markdown](https://www.markdownguide.org/basic-syntax/) — no HTML needed.
+- Write using [Markdown](https://www.markdownguide.org/basic-syntax/).
 
 ### Publishing your changes
-When you're ready to update your site, switch to GitHub Desktop:
+When you're ready to update your site, switch from VS Code to GitHub Desktop:
 1. Your changed files will appear automatically in the left panel.
 2. Type a short summary in the **"Summary"** box at the bottom left (e.g. "Week 03 documentation").
 3. Click the blue **"Commit to main"** button.
