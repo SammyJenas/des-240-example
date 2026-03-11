@@ -16,8 +16,8 @@ Before you start, make sure you have the following installed:
    - Click the green **"Use this template"** button at the top of this repo, then choose **"Create a new repository"**.
    - Give your new repository a name (e.g. `making-journal`) and click **"Create repository"**.
 2. **Clone your new repository with GitHub Desktop:**
-   - On your repo page, click the green **"Code"** button and select **"Open with GitHub Desktop"**.
-   - Choose a folder on your computer to save the project, then click **"Clone"**.
+   - In GitHub Desktop, select your new repository, then click **"Clone"**. 
+   - Choose a folder on your computer to save the project.
 3. **Enable GitHub Pages:**
    - Go to your repo on GitHub → **Settings** → **Pages**
    - Under "Source", select **Deploy from a branch**
